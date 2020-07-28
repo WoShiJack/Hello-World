@@ -4,7 +4,7 @@
 
 # Hello World
 
-* 你好，世界！
+* 你好，世界
 
 [GitHub](https://github.com/WoShiJack)
 [Get Started](README.md)
